@@ -1,0 +1,8 @@
+torrar("pão integral", "Mari")
+
+function torrar(pao, nome = "Rob"){
+    console.log("torrada feita com " + pao)
+    console.log("ela é um pedido de " + nome)
+}
+
+//console.log(pao)
