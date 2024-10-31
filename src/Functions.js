@@ -1,15 +1,3 @@
-torrar("pão de forma")
-torrar("pão integral")
-
-function torrar(pao){
-    let nome = "rob"
-    console.log("torrada feita com " + pao)
-    console.log(nome)
-}
-
-//console.log(pao)
-
-
 main()
 
 function main (){
