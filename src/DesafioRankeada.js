@@ -23,7 +23,7 @@ else {
     elo = "Imortal";
 }
 
-console.log(`O herói tem o saldo de ${rank} pontos e está no elo ${elo}!`)
+console.log(`O herói tem o saldo total de ${rank} pontos e está no elo ${elo}!`)
 
 function saldoRank(saldo1, saldo2){
     let calculo = saldo1 - saldo2;
